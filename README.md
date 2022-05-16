@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Luciana-madruga
 - 👀 I’m interested in data analyis
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me luciana.madruga@gmail.com
 
 <!---
